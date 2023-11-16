@@ -1,0 +1,6 @@
+id,name,cartCount,maxSpeed,inUse
+1,Happy Train,5,50,true
+2,Fast Train,1,500900,true
+3,Underground Train,10,25,false
+4,Space Train,999,999999,true
+64,Fantasy Train,-50,-50,true
